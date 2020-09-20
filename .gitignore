@@ -1,5 +1,6 @@
 target/
 .ide
-.iml
+*.iml
+logs/
 
 
