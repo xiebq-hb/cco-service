@@ -1,0 +1,4 @@
+# 打包命令 mvn clean package -P pro/dev
+spring:
+  profiles:
+    active: @env@
